@@ -11,7 +11,7 @@ OS=`uname`
 ARCH=`uname -m`
 VERSION=$1
 URL=https://github.com/thedevsaddam/dl
-TARGET=/usr/local/bin/dl
+TARGET=/data/data/com.termux/files/home/usr/local/bin/dl
 MESSAGE_START="Installing dl"
 MESSAGE_END="Installation complete"
 
